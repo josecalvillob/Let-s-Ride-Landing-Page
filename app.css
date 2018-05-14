@@ -1,0 +1,25 @@
+body{
+    background: url(https://i.imgur.com/J6KCa4w.jpg);
+    background-size: cover;
+    font-family: 'IBM Plex Sans' sans-serif;
+
+}
+
+/* makes sure image doesn't reapeat when turned to mobile size */
+html{
+    height: 100%;
+
+}
+#content{
+    text-align: center;
+    padding-top: 25%;
+    color: #ffffff;
+}
+
+.navbar-brand{
+    font-family: 'Faster One', cursive;
+}
+
+.btn-group-lg>.btn, .btn-lg{
+    font-family: 'Faster One', cursive;
+}
